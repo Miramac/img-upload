@@ -1,0 +1,1 @@
+{"dependencies":[{"name":"./bootstrap.min.css","loc":{"line":3,"column":7}},{"name":"./main.css","loc":{"line":4,"column":7}}],"generated":{"js":"\"use strict\";require(\"./bootstrap.min.css\"),require(\"./main.css\");"},"hash":"4b1c062aae855f7e6b0e601f377e6b3e","cacheData":{"env":{}}}
